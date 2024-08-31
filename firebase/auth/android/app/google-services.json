@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "444702747457",
+    "project_id": "auth-cf7a0",
+    "storage_bucket": "auth-cf7a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444702747457:android:0f8ff50cedb059ef650fc0",
+        "android_client_info": {
+          "package_name": "com.appskyloom.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444702747457-3q4drusfh0gnikgmr7hadflr913vu667.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appskyloom.auth",
+            "certificate_hash": "e2ddfa698f406fb9c6ae3d2f3336c5611d6bccca"
+          }
+        },
+        {
+          "client_id": "444702747457-i80ok1dbfh3oqoahfsrrqs5a29bnc4m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASFHjehQfex66ToCvzIp0c86FQthzWHRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444702747457-i80ok1dbfh3oqoahfsrrqs5a29bnc4m2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444702747457-9cao8cdt2qd968745lke64pkl91g8cev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appskyloom.auth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

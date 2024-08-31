@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1024492785632",
+    "project_id": "myauth-5a8a1",
+    "storage_bucket": "myauth-5a8a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024492785632:android:9a0c7472a71ee00403e585",
+        "android_client_info": {
+          "package_name": "com.appskyloom.myauthtute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024492785632-45fdkkcfvmueo4ro92hvtevbfgahnd0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrZZgHEXzb_a7uYApkPOnYAZQ6M8KGmko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024492785632-45fdkkcfvmueo4ro92hvtevbfgahnd0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
